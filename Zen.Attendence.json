@@ -1,0 +1,416 @@
+[{
+  "userId": 6,
+  "topicId": 1,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214916"
+      },
+      "userId": 6,
+      "userName": "Gopinath",
+      "userEmail": "gopinath@gmail.com",
+      "mentorId": 3
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214a9d"
+      },
+      "topicId": 1,
+      "topic": "HTml, Css",
+      "topicDate": "2020-10-10"
+    }
+  ]
+},
+{
+  "userId": 10,
+  "topicId": 1,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf367721491a"
+      },
+      "userId": 10,
+      "userName": "Sritharan",
+      "userEmail": "sritharan@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214a9d"
+      },
+      "topicId": 1,
+      "topic": "HTml, Css",
+      "topicDate": "2020-10-10"
+    }
+  ]
+},
+{
+  "userId": 18,
+  "topicId": 1,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214922"
+      },
+      "userId": 18,
+      "userName": "Soundarya",
+      "userEmail": "soundarya@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214a9d"
+      },
+      "topicId": 1,
+      "topic": "HTml, Css",
+      "topicDate": "2020-10-10"
+    }
+  ]
+},
+{
+  "userId": 2,
+  "topicId": 2,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214912"
+      },
+      "userId": 2,
+      "userName": "Swastic",
+      "userEmail": "swastic@gmail.com",
+      "mentorId": 2
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214a9e"
+      },
+      "topicId": 2,
+      "topic": "Bootstrap",
+      "topicDate": "2020-10-11"
+    }
+  ]
+},
+{
+  "userId": 10,
+  "topicId": 2,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf367721491a"
+      },
+      "userId": 10,
+      "userName": "Sritharan",
+      "userEmail": "sritharan@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214a9e"
+      },
+      "topicId": 2,
+      "topic": "Bootstrap",
+      "topicDate": "2020-10-11"
+    }
+  ]
+},
+{
+  "userId": 3,
+  "topicId": 3,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214913"
+      },
+      "userId": 3,
+      "userName": "koushik",
+      "userEmail": "koushik@gmail.com",
+      "mentorId": 3
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214a9f"
+      },
+      "topicId": 3,
+      "topic": "JS",
+      "topicDate": "2020-10-17"
+    }
+  ]
+},
+{
+  "userId": 17,
+  "topicId": 3,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214921"
+      },
+      "userId": 17,
+      "userName": "Bhargavi",
+      "userEmail": "bhargavi@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214a9f"
+      },
+      "topicId": 3,
+      "topic": "JS",
+      "topicDate": "2020-10-17"
+    }
+  ]
+},
+{
+  "userId": 18,
+  "topicId": 4,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214922"
+      },
+      "userId": 18,
+      "userName": "Soundarya",
+      "userEmail": "soundarya@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa0"
+      },
+      "topicId": 4,
+      "topic": "Async Programming",
+      "topicDate": "2020-10-18"
+    }
+  ]
+},
+{
+  "userId": 12,
+  "topicId": 5,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf367721491c"
+      },
+      "userId": 12,
+      "userName": "priyanka",
+      "userEmail": "priyanka@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa1"
+      },
+      "topicId": 5,
+      "topic": "React",
+      "topicDate": "2020-10-24"
+    }
+  ]
+},
+{
+  "userId": 5,
+  "topicId": 6,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214915"
+      },
+      "userId": 5,
+      "userName": "Vimal Karthik",
+      "userEmail": "vimalkarthik@gmail.com",
+      "mentorId": 2
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa2"
+      },
+      "topicId": 6,
+      "topic": "React-Redux",
+      "topicDate": "2020-11-25"
+    }
+  ]
+},
+{
+  "userId": 16,
+  "topicId": 6,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214920"
+      },
+      "userId": 16,
+      "userName": "Dharshini",
+      "userEmail": "dharshini@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa2"
+      },
+      "topicId": 6,
+      "topic": "React-Redux",
+      "topicDate": "2020-11-25"
+    }
+  ]
+},
+{
+  "userId": 9,
+  "topicId": 7,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214919"
+      },
+      "userId": 9,
+      "userName": "Akilan",
+      "userEmail": "akilan@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa3"
+      },
+      "topicId": 7,
+      "topic": "MySQL",
+      "topicDate": "2020-11-31"
+    }
+  ]
+},
+{
+  "userId": 17,
+  "topicId": 7,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214921"
+      },
+      "userId": 17,
+      "userName": "Bhargavi",
+      "userEmail": "bhargavi@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa3"
+      },
+      "topicId": 7,
+      "topic": "MySQL",
+      "topicDate": "2020-11-31"
+    }
+  ]
+},
+{
+  "userId": 4,
+  "topicId": 8,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214914"
+      },
+      "userId": 4,
+      "userName": "Ajil Arafath",
+      "userEmail": "Ajilarafath@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa4"
+      },
+      "topicId": 8,
+      "topic": "MongoDB",
+      "topicDate": "2020-11-01"
+    }
+  ]
+},
+{
+  "userId": 15,
+  "topicId": 8,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf367721491f"
+      },
+      "userId": 15,
+      "userName": "Sowmiya",
+      "userEmail": "sowmiya@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa4"
+      },
+      "topicId": 8,
+      "topic": "MongoDB",
+      "topicDate": "2020-11-01"
+    }
+  ]
+},
+{
+  "userId": 20,
+  "topicId": 8,
+  "attended": false,
+  "result": [
+    {
+      "_id": {
+        "$oid": "64fedaa9c877bf3677214924"
+      },
+      "userId": 20,
+      "userName": "Shabana",
+      "userEmail": "shabana@gmail.com",
+      "mentorId": 1
+    }
+  ],
+  "New": [
+    {
+      "_id": {
+        "$oid": "64fee15bc877bf3677214aa4"
+      },
+      "topicId": 8,
+      "topic": "MongoDB",
+      "topicDate": "2020-11-01"
+    }
+  ]
+}]
